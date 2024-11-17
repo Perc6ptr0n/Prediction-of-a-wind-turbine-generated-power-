@@ -1,4 +1,4 @@
-# Prediction-of-a-wind-turbine-generated-power-
+# Prediction-of-a-wind-turbine-generated-power using lightgbm #
 Prediction of a wind turbine generated power for a Kaggle competition 
 
 This code provides some feature engineering techniques I use for wind speed data. Wind speed data are very hard to deal with since they have a non-linear presence. 
